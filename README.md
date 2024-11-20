@@ -1,4 +1,4 @@
-Este diretório é dedicado a um exercício da disciplina de Programação Orientada a Objetos, cujo enunciado é o seguinte:
+Este diretório é dedicado a um exercício sobre polimorfismo da disciplina de Programação Orientada a Objetos, cujo enunciado é o seguinte:
 
 - Crie uma classe pai qualquer com pelo menos 3 atributos (pode ser a mesma da semana passada)
 - Crie 3 classes filhas com pelo menos 1 atributo diferente da classe pai
